@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduTrackBot", "EduTrackBot\EduTrackBot.csproj", "{180866BA-32F3-4BF5-8651-6D89824C45CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180866BA-32F3-4BF5-8651-6D89824C45CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180866BA-32F3-4BF5-8651-6D89824C45CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180866BA-32F3-4BF5-8651-6D89824C45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180866BA-32F3-4BF5-8651-6D89824C45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38B4AD2-1C8A-4B1F-B2CD-1411E7B957D6}
+	EndGlobalSection
+EndGlobal
